@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
     color: 'white',
     marginBottom: 20,
     textAlign: 'center',
-    fontFamily: 'sans-serif', // Fonte nativa
+    fontFamily: 'sans-serif', 
   },
   inputContainer: {
     flexDirection: 'row',
@@ -204,7 +204,7 @@ const styles = StyleSheet.create({
     paddingLeft: 10,
     borderRadius: 8,
     fontSize: 18,
-    fontFamily: 'sans-serif', // Fonte nativa
+    fontFamily: 'sans-serif', 
   },
   picker: {
     width: 150,
